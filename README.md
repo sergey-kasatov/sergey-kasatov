@@ -1,16 +1,13 @@
-## Hi there 👋
+# Sergey Kasatov
 
-<!--
-**sergey-kasatov/sergey-kasatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst (career transition) based in Cologne, Germany.  
+SQL • Python (pandas) • Power BI / Tableau • Manufacturing & Quality analytics
 
-Here are some ideas to get you started:
+**Links**
+- LinkedIn: https://www.linkedin.com/in/sergey-kasatov/
+- Tableau Public: https://public.tableau.com/app/profile/sergey.kasatov/vizzes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio (in progress)**
+- SQL analysis project
+- Python EDA & data cleaning project
+- KPI dashboard (Power BI/Tableau)
