@@ -1,6 +1,6 @@
 # Sergey Kasatov
 
-Data Analyst (career transition) based in Cologne, Germany.  
+Data Analyst based in Cologne, Germany.  
 SQL • Python (pandas) • Power BI / Tableau • Manufacturing & Quality analytics
 
 **Links**
