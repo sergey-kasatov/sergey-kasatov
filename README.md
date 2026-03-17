@@ -5,9 +5,9 @@
 **Domain:** Manufacturing & Quality analytics
 
 ## Links
-- LinkedIn: https://www.linkedin.com/in/sergey-kasatov/
-- Tableau Public: https://public.tableau.com/app/profile/sergey.kasatov/vizzes
-- Portfolio hub: https://github.com/sergey-kasatov/portfolio
+- LinkedIn: [sergey-kasatov](https://www.linkedin.com/in/sergey-kasatov/)
+- Tableau Public: [sergey.kasatov/vizzes](https://public.tableau.com/app/profile/sergey.kasatov/vizzes)
+- Portfolio hub: [github.com/sergey-kasatov/portfolio](https://github.com/sergey-kasatov/portfolio)
 
 ## Featured work
 
