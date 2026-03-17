@@ -13,7 +13,7 @@
 
 - **Phoenix Retail — KPI Dashboard (Sales, Profit & Discount)**  
   Built a KPI dashboard with profit/discount analysis and clear business takeaways.  
-  Repo: [phoenix-retail-kpi-dashboard](https://github.com/sergey-kasatov/phoenix-retail-kpi-dashboard) • Tableau: [Tableau Public profile](https://public.tableau.com/app/profile/sergey.kasatov/vizzes)
+  Repo: [phoenix-retail-kpi-dashboard](https://github.com/sergey-kasatov/phoenix-retail-kpi-dashboard) • Tableau: [Retail KPI Dashboard — Main Dashboard](https://public.tableau.com/views/RetailKPIDashboardSalesProfitDiscount/MainDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - **TravelTide — Customer Segmentation & Retention (Python + SQL + Tableau)**  
   Segmented customers and outlined retention opportunities using SQL/Python analysis.  
