@@ -15,8 +15,8 @@
   Built a KPI dashboard with profit/discount analysis and clear business takeaways.  
   Repo: [phoenix-retail-kpi-dashboard](https://github.com/sergey-kasatov/phoenix-retail-kpi-dashboard) • Tableau: [Retail KPI Dashboard — Main Dashboard](https://public.tableau.com/views/RetailKPIDashboardSalesProfitDiscount/MainDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- **TravelTide — Customer Segmentation & Retention (Python + SQL + Tableau)**  
-  Segmented customers with rule-based logic and ML clustering, then translated insights into retention actions.  
+- **TravelTide — Customer Segmentation & Retention (Python + SQL + ML)**  
+  Built a customer retention segmentation framework using SQL, Python, rule-based perk assignment, and ML benchmarking, then translated the results into business-ready targeting recommendations.  
   Repo: [traveltide-segmentation-retention](https://github.com/sergey-kasatov/traveltide-segmentation-retention)
 
 - **Used Car Market — EDA & Data Cleaning (Python/pandas)**  
