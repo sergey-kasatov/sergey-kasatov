@@ -1,7 +1,7 @@
 # Sergey Kasatov — Data Analyst
 
 **Location:** Cologne, Germany  
-**Stack:** Stack: SQL • Python (pandas, scikit-learn) • Tableau / Power BI • Streamlit • MLflow  
+**Stack:** SQL • Python (pandas, scikit-learn) • Tableau / Power BI • Streamlit • MLflow  
 **Domain:** Manufacturing & Quality analytics
 
 ## Links
