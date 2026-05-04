@@ -1,7 +1,7 @@
 # Sergey Kasatov — Data Analyst
 
 **Location:** Cologne, Germany  
-**Stack:** SQL • Python (pandas) • Tableau / Power BI  
+**Stack:** Stack: SQL • Python (pandas, scikit-learn) • Tableau / Power BI • Streamlit • MLflow  
 **Domain:** Manufacturing & Quality analytics
 
 ## Links
@@ -10,6 +10,9 @@
 - Portfolio hub: [github.com/sergey-kasatov/portfolio](https://github.com/sergey-kasatov/portfolio)
 
 ## Featured work
+- **FreshMart Demand Planner — Time Series Forecasting App (Python + MLflow + Streamlit)**  
+  Built an end-to-end sales forecasting pipeline with EDA, feature engineering, statistical models, machine learning models, HyperOpt tuning, MLflow experiment tracking, and a deployed Streamlit planning app.  
+  Repo: [time-series-forecasting-project](https://github.com/sergey-kasatov/time-series-forecasting-project) · Live App: [FreshMart Demand Planner](https://freshmart-demand-planner.streamlit.app)
 
 - **Phoenix Retail — KPI Dashboard (Sales, Profit & Discount)**  
   Built a KPI dashboard with profit/discount analysis and clear business takeaways.  
@@ -18,10 +21,6 @@
 - **TravelTide — Customer Segmentation & Retention (Python + SQL + ML)**  
   Built a customer retention segmentation framework using SQL, Python, rule-based perk assignment, and ML benchmarking, then translated the results into business-ready targeting recommendations.  
   Repo: [traveltide-segmentation-retention](https://github.com/sergey-kasatov/traveltide-segmentation-retention)
-
-- **Used Car Market — EDA & Data Cleaning (Python/pandas)**  
-  End-to-end EDA and a repeatable cleaning workflow to prepare data for modeling.  
-  Repo: [used-car-eda-pandas](https://github.com/sergey-kasatov/used-car-eda-pandas)
 
 - **Vehicle Silhouette — Supervised + Unsupervised ML (scikit-learn)**  
   Compared classification vs clustering + PCA to explain patterns in the data.  
