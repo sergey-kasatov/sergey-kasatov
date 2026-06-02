@@ -22,9 +22,9 @@
   Built a customer retention segmentation framework using SQL, Python, rule-based perk assignment, and ML benchmarking, then translated the results into business-ready targeting recommendations.  
   Repo: [traveltide-segmentation-retention](https://github.com/sergey-kasatov/traveltide-segmentation-retention)
 
-- **CIFAR-10 Image Classification - Transfer Learning with ResNet50 (Python / TensorFlow / Keras)**  
-  Transfer learning on 32x32 images using ResNet50 pretrained on ImageNet. Two-phase training: frozen base followed by full fine-tuning. Test accuracy 69.8% on 10,000 unseen images.  
-  Repo: [computer-vision-cifar10-classification](https://github.com/sergey-kasatov/computer-vision-cifar10-classification)
+- **CIFAR-10 ResNet50 Transfer Learning Experiments (Python / TensorFlow / Keras)**  
+  Systematic experiments on dataset size, augmentation, LR scheduling, and partial unfreezing. Best result: 82.7% test accuracy. Includes Grad-CAM visualization.  
+  Repo: [cifar10-resnet50-transfer-learning-experiments](https://github.com/sergey-kasatov/cifar10-resnet50-transfer-learning-experiments)
 
 - **Predictive Maintenance - Maintenance Required Prediction (Python / scikit-learn)**  
   Baseline model + metrics to predict maintenance need from usage/condition signals.  
