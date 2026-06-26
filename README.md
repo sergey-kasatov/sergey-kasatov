@@ -14,6 +14,10 @@
   Built an end-to-end sales forecasting pipeline with EDA, feature engineering, statistical models, machine learning models, HyperOpt tuning, MLflow experiment tracking, and a deployed Streamlit planning app.  
   Repo: [time-series-forecasting-project](https://github.com/sergey-kasatov/time-series-forecasting-project) · Live App: [FreshMart Demand Planner](https://freshmart-demand-planner.streamlit.app)
 
+- **Disaster Tweets - NLP Classification (Python / scikit-learn / PyTorch / DistilBERT)**  
+  Binary classifier that distinguishes real-disaster tweets from figurative use. Shipped an interpretable TF-IDF + tuned Logistic Regression baseline, benchmarked against a from-scratch CNN and fine-tuned DistilBERT; results confirmed on the Kaggle public leaderboard.  
+  Repo: [nlp-disaster-tweets-classification](https://github.com/sergey-kasatov/nlp-disaster-tweets-classification)
+
 - **Phoenix Retail - KPI Dashboard (Sales, Profit & Discount)**  
   Built a KPI dashboard with profit/discount analysis and clear business takeaways.  
   Repo: [phoenix-retail-kpi-dashboard](https://github.com/sergey-kasatov/phoenix-retail-kpi-dashboard) · Tableau: [Retail KPI Dashboard - Main Dashboard](https://public.tableau.com/views/RetailKPIDashboardSalesProfitDiscount/MainDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
